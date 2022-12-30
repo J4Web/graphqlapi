@@ -1,3 +1,4 @@
+//all the libs are here on the top
 const express = require('express');
 const { graphqlHTTP } = require('express-graphql');
 const _ = require('lodash');
