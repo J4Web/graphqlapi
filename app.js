@@ -1,5 +1,7 @@
 //all the libs are here on the top
 const express = require('express');
+//importing gql exp node js exp-gql 
+/
 const { graphqlHTTP } = require('express-graphql');
 const _ = require('lodash');
 var { graphql, buildSchema } = require('graphql');
