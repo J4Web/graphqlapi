@@ -1,6 +1,7 @@
 //all the libs are here on the top
 const express = require('express');
 //importing gql exp node js exp-gql 
+/dfghj
 /
 const { graphqlHTTP } = require('express-graphql');
 const _ = require('lodash');
